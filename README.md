@@ -33,4 +33,4 @@ This repository serves as a public timestamped disclosure.
 Further discussion and applications may follow separately.
 
 ## License
-Released under CC BY 4.0.
+This work is licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).
