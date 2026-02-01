@@ -45,3 +45,7 @@ Under the following terms:
 
 Full license text is available in the LICENSE file and at:
 https://creativecommons.org/licenses/by/4.0/
+
+## SSRN
+- ID 6164566
+- Link https://papers.ssrn.com/abstract=6164566
